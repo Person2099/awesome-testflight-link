@@ -5,6 +5,7 @@
 | Cell to Singularity | [https://testflight.apple.com/join/RD9jGH9S](https://testflight.apple.com/join/RD9jGH9S) | Y | 2023-01-15 |
 | DropZap World | [https://testflight.apple.com/join/CdEXgjst](https://testflight.apple.com/join/CdEXgjst) | Y | 2023-07-02 |
 | WOW: Wars of Wanon | [https://testflight.apple.com/join/UZ4tYFb6](https://testflight.apple.com/join/UZ4tYFb6) | Y | 2023-11-30 |
+| Heroic Mayhem | [https://testflight.apple.com/join/xjc2fPds](https://testflight.apple.com/join/xjc2fPds) | Y | 2024-04-17 |
 | Minecraft Preview | [https://testflight.apple.com/join/qC1ZnReJ](https://testflight.apple.com/join/qC1ZnReJ) | F | 2024-03-31 |
 | MLBB Beta | [https://testflight.apple.com/join/yYjKTTlT](https://testflight.apple.com/join/yYjKTTlT) | F | 2023-12-29 |
 | Stick War 3 | [https://testflight.apple.com/join/eUx3WxVj](https://testflight.apple.com/join/eUx3WxVj) | F | 2024-04-17 |
